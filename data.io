@@ -1,0 +1,7 @@
+((a b c) ((a b) (b c) (c a)))
+((m n o) ((m n) (n o) (m o)))
+((v w x y) ((v w) (w x) (x y)))
+((a) ())
+((p q) ())
+(() ())
+((a b x y) ((a x) (a y) (b x) (b y)))
